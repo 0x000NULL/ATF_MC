@@ -1,0 +1,71 @@
+PLAYER_HEAD:
+  type: PLAYER_HEAD
+  name: §e{name}
+  lore:
+  - §8» §fClick for divorce.
+MARRY_HEART:
+  type: RED_STAINED_GLASS
+  name: §f
+MARRY_WHITE:
+  type: WHITE_STAINED_GLASS_PANE
+  name: §f
+MARRY_BACKGROUND:
+  type: LIGHT_BLUE_STAINED_GLASS_PANE
+  name: §f
+MARRY_LAST_SEEN:
+  type: REDSTONE_LAMP
+  name: §eLast seen
+  lore:
+  - §8» §fClick to find out,
+  - ' §fwhen your partner was'
+  - ' §flast seen on the server.'
+MARRY_SHARED_XP:
+  type: EXPERIENCE_BOTTLE
+  name: §eShared Experience
+  lore:
+  - §8» §fGained XP are halved
+  - ' §fand shared with your partner.'
+MARRY_TP_HOME:
+  type: RED_BED
+  name: §eHome Teleportation
+  lore:
+  - §8» §fClick to be teleported to
+  - ' §fyour shared home.'
+MARRY_GIFT:
+  type: CHEST
+  name: §eGift
+  lore:
+  - §8» §fClick to surprise your
+  - ' §fpartner with a lovely gift!'
+  - ' §7(Will send your held item to'
+  - ' §7your partner)'
+MARRY_TP:
+  type: ENDER_PEARL
+  name: §eTeleportation
+  lore:
+  - §8» §fClick to be teleported to
+  - ' §fyour partner.'
+MARRY_PVP:
+  type: DIAMOND_SWORD
+  name: §ePvP
+  lore:
+  - §8» §fClick to turn ON/OFF your
+  - ' §fPvP with partner.'
+MARRY_SET_HOME:
+  type: OAK_DOOR
+  name: §eSet Home
+  lore:
+  - §8» §fClick to set your shared home
+  - ' §fto your current location.'
+MARRY_SHARED_FOOD:
+  type: COOKED_PORKCHOP
+  name: §eShared Food
+  lore:
+  - §8» §fGained food is halved
+  - ' §fand shared with your partner.'
+MARRY_PRIVATE_CHAT:
+  type: PAPER
+  name: §eShared Chat
+  lore:
+  - §8» §fClick to start writing
+  - ' §fto your shared chat.'

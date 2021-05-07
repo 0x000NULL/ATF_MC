@@ -1,0 +1,21 @@
+NO_PVP:
+  message: '&c&l❤ &aMarriage &8» &fYou can''t attack your partner.'
+  duration: 20
+KISS:
+  message: '&c&l❤ &aMarriage &8» &fYou kissed your partner.'
+  duration: 20
+KISS_PARTNER:
+  message: '&c&l❤ &aMarriage &8» &fYour partner has kissed you.'
+  duration: 20
+SHARE_FOOD:
+  message: '&c&l❤ &aMarriage &8» &fYou shared half of your food. &7({amount})'
+  duration: 20
+SHARE_FOOD_PARTNER:
+  message: '&c&l❤ &aMarriage &8» &fYour partner has shared food with you. &7({amount})'
+  duration: 20
+SHARE_XP:
+  message: '&c&l❤ &aMarriage &8» &fYou shared half of your exp. &7({amount})'
+  duration: 20
+SHARE_XP_PARTNER:
+  message: '&c&l❤ &aMarriage &8» &fYour partner has shared exp with you. &7({amount})'
+  duration: 20

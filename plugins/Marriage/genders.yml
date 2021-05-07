@@ -1,0 +1,12 @@
+MALE:
+  name: Male
+  symbol: ♂
+  color: '&b'
+FEMALE:
+  name: Female
+  symbol: ♀
+  color: '&d'
+NONE:
+  name: None
+  symbol: ●
+  color: '&7'

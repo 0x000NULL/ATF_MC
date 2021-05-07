@@ -1,0 +1,24 @@
+DIVORCE_PLAYER:
+  title: '&cDivorce'
+  subtitle: '&c✖ &fDivorced.'
+  in: 20
+  stay: 40
+  out: 20
+DIVORCE_PARTNER:
+  title: '&cDivorce'
+  subtitle: '&c✖ &fDivorced.'
+  in: 20
+  stay: 40
+  out: 20
+MARRY_PLAYER:
+  title: '&c&l❤ &aMarriage &c&l❤'
+  subtitle: '&fYou &baccepted &fa marry request from &b{name}&f.'
+  in: 20
+  stay: 40
+  out: 20
+MARRY_PARTNER:
+  title: '&c&l❤ &aMarriage &c&l❤'
+  subtitle: '&b{name} &faccepted your marry request!'
+  in: 20
+  stay: 40
+  out: 20
